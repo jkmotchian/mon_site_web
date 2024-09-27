@@ -1,9 +1,13 @@
-tmp/todo.txt
 mise-a-jour-git-2.24.0-git-switch-et-git-restore.pdf
 ressources_cours_git/
 IV-+Voyager+dans+l'historique.pdf
 *.csv
 PythonCode/
+<<<<<<< HEAD
 *.xml
 *.xlsx
 *.html
+=======
+PythonCode/
+*.xml
+>>>>>>> 62ba061 (nettoyage du fichier)
