@@ -3,11 +3,8 @@ ressources_cours_git/
 IV-+Voyager+dans+l'historique.pdf
 *.csv
 PythonCode/
-<<<<<<< HEAD
 *.xml
 *.xlsx
 *.html
-=======
 PythonCode/
 *.xml
->>>>>>> 62ba061 (nettoyage du fichier)
