@@ -4,3 +4,5 @@ ressources_cours_git
 IV-+Voyager+dans+l'historique.pdf
 *.csv
 PythonCode/
+*.xml
+*.xlsx
